@@ -1,0 +1,8 @@
+******INSTRUCCIONES******
+Para el uso de los recursos de la carpeta "ResourcesVS"
+mueva la carpeta a C:\ asi no tendra problemas al
+ejecutar, dentro del programa ya va configurado para 
+el funcionamiento en otro dispositivo, siempre y cuando
+esa carpeta vaya a donde mencione en un inicio.
+
+Espero no exista problema alguno despues de esto.

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nave_Proyecto/1.0.0": {
+        "runtime": {
+          "Nave_Proyecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nave_Proyecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
